@@ -1,8 +1,8 @@
 {
-  "name": "SERVER-HELLO-WORLD",
+  "name": "SERVER-HELLO-WORLDr",
   "version": "1.0.0",
   "description": "",
-  "main": "hello.mjs",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
